@@ -1,19 +1,18 @@
-
 {
-  "name": "Agents IA — Tableau de bord",
-  "short_name": "Agents IA",
-  "description": "Tableau de bord personnel pour coordonner vos agents IA.",
-  "start_url": "https://ryoths.github.io/Agent-multiple/",
-  "scope": "https://ryoths.github.io/Agent-multiple/",
-  "display": "standalone",
-  "background_color": "#101827",
-  "theme_color": "#101827",
-  "icons": [
-    {
-      "src": "https://ryoths.github.io/Agent-multiple/flux-mark.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any"
-    }
-  ]
+"name": "Agents IA — Tableau de bord",
+"short_name": "Agents IA",
+"description": "Tableau de bord personnel pour coordonner vos agents IA.",
+"start_url": "https://ryoths.github.io/Agent-multiple/",
+"scope": "https://ryoths.github.io/Agent-multiple/",
+"display": "standalone",
+"background_color": "#101827",
+"theme_color": "#101827",
+"icons": [
+{
+"src": "https://ryoths.github.io/Agent-multiple/flux-mark.svg",
+"sizes": "any",
+"type": "image/svg+xml",
+"purpose": "any"
+}
+]
 }
